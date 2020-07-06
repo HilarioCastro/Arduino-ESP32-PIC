@@ -1,0 +1,1 @@
+MAC_Origem;Sensor;Porta;Data;Dia_da_Semana;Hora;Timestamp;Valor

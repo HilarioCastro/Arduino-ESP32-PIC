@@ -1,0 +1,1 @@
+Umidade 01;32;Umidade 02;35;Luminosidade 01;34;Temperatura 01;33;

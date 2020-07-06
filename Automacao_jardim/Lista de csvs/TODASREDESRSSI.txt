@@ -1,0 +1,1 @@
+MAC_Origem;Data;Dia_da_semana;hora;timestamp;SSID_do_Dispositivo;MAC_do_dispositivo;RSSI_do_dispositivo;Dia_da_semana
